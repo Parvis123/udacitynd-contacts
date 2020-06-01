@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
 import ListContacts from './components/ListContacts';
 
-const contacts = [
-
- ];
-
 class App extends Component {
   state = {
     contacts: 
